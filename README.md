@@ -1,2 +1,2 @@
 # ia-test
-To try IA-language models.
+Trying PyTorch with some tests
